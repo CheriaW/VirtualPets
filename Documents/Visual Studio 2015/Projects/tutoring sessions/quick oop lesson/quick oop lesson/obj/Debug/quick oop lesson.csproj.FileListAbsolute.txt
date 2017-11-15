@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\bin\Debug\quick oop lesson.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\bin\Debug\quick oop lesson.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\bin\Debug\quick oop lesson.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\obj\Debug\quick oop lesson.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\obj\Debug\quick oop lesson.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\quick oop lesson\quick oop lesson\obj\Debug\quick oop lesson.pdb

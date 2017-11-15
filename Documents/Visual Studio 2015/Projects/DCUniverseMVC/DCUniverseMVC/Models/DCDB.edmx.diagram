@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1555b663fb624fbc8b8dd0ece14ec692" Name="Diagram1">
+        <EntityTypeShape EntityType="DCUniverseModel.Battle" Width="1.5" PointX="4.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DCUniverseModel.Hero" Width="1.5" PointX="4.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DCUniverseModel.Nemesi" Width="1.5" PointX="0.875" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DCUniverseModel.Villain" Width="1.5" PointX="0.875" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="DCUniverseModel.FK_Battle_Hero" ManuallyRouted="false" />
+        <AssociationConnector Association="DCUniverseModel.FK_Battle_Villain" ManuallyRouted="false" />
+        <AssociationConnector Association="DCUniverseModel.FK_Nemesis_Hero" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

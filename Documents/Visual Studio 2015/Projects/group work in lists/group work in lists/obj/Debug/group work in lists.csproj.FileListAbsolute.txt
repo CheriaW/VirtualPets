@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\bin\Debug\group work in lists.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\bin\Debug\group work in lists.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\bin\Debug\group work in lists.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\obj\Debug\group work in lists.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\obj\Debug\group work in lists.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\group work in lists\group work in lists\obj\Debug\group work in lists.pdb

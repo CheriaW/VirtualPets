@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\bin\Debug\in class practicing.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\bin\Debug\in class practicing.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\bin\Debug\in class practicing.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\obj\Debug\in class practicing.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\obj\Debug\in class practicing.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\in class practicing\in class practicing\obj\Debug\in class practicing.pdb

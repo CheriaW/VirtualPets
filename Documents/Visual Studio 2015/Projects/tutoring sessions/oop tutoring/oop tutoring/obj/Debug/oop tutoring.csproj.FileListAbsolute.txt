@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\bin\Debug\oop tutoring.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\bin\Debug\oop tutoring.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\bin\Debug\oop tutoring.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\obj\Debug\oop tutoring.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\obj\Debug\oop tutoring.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oop tutoring\oop tutoring\obj\Debug\oop tutoring.pdb

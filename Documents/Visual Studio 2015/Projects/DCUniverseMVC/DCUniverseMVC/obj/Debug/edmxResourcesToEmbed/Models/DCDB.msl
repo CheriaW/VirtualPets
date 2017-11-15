@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DCUniverseModelStoreContainer" CdmEntityContainer="DCUniverseEntities">
+    <EntitySetMapping Name="Battles">
+      <EntityTypeMapping TypeName="DCUniverseModel.Battle">
+        <MappingFragment StoreEntitySet="Battle">
+          <ScalarProperty Name="BattleID" ColumnName="BattleID" />
+          <ScalarProperty Name="HeroID" ColumnName="HeroID" />
+          <ScalarProperty Name="VillainID" ColumnName="VillainID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Heroes">
+      <EntityTypeMapping TypeName="DCUniverseModel.Hero">
+        <MappingFragment StoreEntitySet="Hero">
+          <ScalarProperty Name="HeroID" ColumnName="HeroID" />
+          <ScalarProperty Name="HeroName" ColumnName="HeroName" />
+          <ScalarProperty Name="SecretIdentity" ColumnName="SecretIdentity" />
+          <ScalarProperty Name="HasCape" ColumnName="HasCape" />
+          <ScalarProperty Name="HeroPowerLevel" ColumnName="HeroPowerLevel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nemesis">
+      <EntityTypeMapping TypeName="DCUniverseModel.Nemesi">
+        <MappingFragment StoreEntitySet="Nemesis">
+          <ScalarProperty Name="NemisisID" ColumnName="NemisisID" />
+          <ScalarProperty Name="NemisisName" ColumnName="NemisisName" />
+          <ScalarProperty Name="NemesisInJail" ColumnName="NemesisInJail" />
+          <ScalarProperty Name="NumberOfHenchman" ColumnName="NumberOfHenchman" />
+          <ScalarProperty Name="HeroID" ColumnName="HeroID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Villains">
+      <EntityTypeMapping TypeName="DCUniverseModel.Villain">
+        <MappingFragment StoreEntitySet="Villain">
+          <ScalarProperty Name="VillainID" ColumnName="VillainID" />
+          <ScalarProperty Name="VillainName" ColumnName="VillainName" />
+          <ScalarProperty Name="VillainPowerLevel" ColumnName="VillainPowerLevel" />
+          <ScalarProperty Name="VillainInJail" ColumnName="VillainInJail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

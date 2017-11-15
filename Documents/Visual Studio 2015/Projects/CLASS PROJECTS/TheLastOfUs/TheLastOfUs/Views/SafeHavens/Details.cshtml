@@ -1,0 +1,26 @@
+﻿@model TheLastOfUs.Models.SafeHaven
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h1>SafeHaven</h1>
+    <hr />
+   
+        <h1 style="font-family: bold">
+            @Html.DisplayNameFor(model => model.Name)
+        </h1>
+
+        <h1>
+            @Html.DisplayFor(model => model.Name)
+        </h1>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

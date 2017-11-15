@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\bin\Debug\quick lesson in STATIS.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\bin\Debug\quick lesson in STATIS.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\bin\Debug\quick lesson in STATIS.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\obj\Debug\quick lesson in STATIS.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\obj\Debug\quick lesson in STATIS.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\in class practicing\in class practicing\quick lesson in STATIS\quick lesson in STATIS\obj\Debug\quick lesson in STATIS.pdb

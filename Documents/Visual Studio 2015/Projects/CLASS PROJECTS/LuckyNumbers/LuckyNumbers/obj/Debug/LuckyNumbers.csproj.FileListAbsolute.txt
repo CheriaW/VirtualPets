@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.pdb

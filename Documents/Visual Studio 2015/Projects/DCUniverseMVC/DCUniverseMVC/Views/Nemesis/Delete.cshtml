@@ -1,0 +1,56 @@
+﻿@model DCUniverseMVC.Models.Nemesi
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Nemesi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NemisisName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NemisisName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NemesisInJail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NemesisInJail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfHenchman)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfHenchman)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hero.HeroName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hero.HeroName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

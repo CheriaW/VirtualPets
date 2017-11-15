@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\bin\Debug\Out of Class Practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\obj\Debug\Out of Class Practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\bin\Debug\Out of Class Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\bin\Debug\Out of Class Practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\obj\Debug\Out of Class Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Out of Class Practice\Out of Class Practice\obj\Debug\Out of Class Practice.pdb
